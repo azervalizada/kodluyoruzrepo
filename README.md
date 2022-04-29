@@ -1,6 +1,6 @@
 # **Kodluyoruz İlk Repo**
 
-I made this repo for [Kodluyoruz](https://kodluyoruz.org) Git Course. There are one README file, and one index.html on this repo.
+I made this repo for [Kodluyoruz](https://kodluyoruz.org) Git Course. There are one README file, one index.html on this repo.
 
 ## **İnstallation**
 First clone repo
