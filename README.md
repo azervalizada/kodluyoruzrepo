@@ -1,5 +1,32 @@
-<h1>Kodluyoruz ilk repo</h1>
-<p1>Bu repo Kodluyoruz-Patika-Odtu anlasmasi icinde yapilan program odevidir</p1>
-<h2>Installation</h2>
-<p2> CLone Project:</p2>
-<a href="https://github.com/azervalizada/kodluyoruzrepo"> tiklayiniz</a>
+# **Kodluyoruz İlk Repo**
+
+I made this repo for [Kodluyoruz](https://kodluyoruz.org) Front-End Course. There is one README file, and one index.html on this repo
+
+## **İnstallation**
+First clone repo
+
+```
+ git clone https://github.com/azervalizada/kodluyoruzrepo
+
+```
+## **Usage**
+Open Visual Studio code after cloning repo.
+
+for Linux:
+
+```
+cd kodluyoruzilkrepo
+code .
+
+ ```
+
+ ## **Contributing**
+ 
+
+## **License**
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+![img](https://i.hizliresim.com/o9knihm.png)
+
+**[Patika.dev](https://app.patika.dev/)**
